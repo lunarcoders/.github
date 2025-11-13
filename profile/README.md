@@ -1,5 +1,5 @@
 <h1 align="center">Lunar Coders</h1>
-<p align="center">Digital products that perform anywhere.</p>
+<p align="center">Bridging East & West through Technology</p>
 
 <p align="center">
   <img src="https://lunarcoders.com/og-image.jpg" alt="Lunar Coders"/>
